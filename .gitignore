@@ -1,0 +1,5 @@
+*.html
+*.xml
+*.log
+.DS_Store
+!subdominios_base.txt
